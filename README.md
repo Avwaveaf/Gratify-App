@@ -66,3 +66,9 @@ Here are some screenshots showcasing the key sections of the memory capture func
 3. Implement the task management features with proper UI-binding using LiveData.
 4. Integrate local data storage using Room, ensuring data persistence.
 5. Build the Bottom Sheet Dialog for task creation and editing to provide a smooth user experience.
+
+## Try the App
+
+If you want to try the **Gratify** app, simply download the latest release from the [Releases Page](https://github.com/Avwaveaf/Gratify-App/releases/tag/v1.0.0). 
+
+After downloading the APK, install it on your Android device, and you're ready to explore Gratify APP!
